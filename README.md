@@ -15,7 +15,6 @@ Bem-vindo ao repositório do Site de Tarefas desenvolvido com Node.js e Express.
 $ npm install express ejs body-parser
 ```
 ## Capturas de Tela:
-
 <img src="./img/Captura01.PNG" alt="captura 01"/>
 <img src="./img/Captura02.PNG" alt="captura 02"/>
 <img src="./img/Captura03.PNG" alt="captura 03"/>
