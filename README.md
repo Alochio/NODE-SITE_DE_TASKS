@@ -11,8 +11,9 @@ Bem-vindo ao repositório do Site de Tarefas desenvolvido com Node.js e Express.
 </p>
 
 ## Dependências utilizadas:
-npm install express ejs body-parser
-
+```
+$ npm install express ejs body-parser
+```
 ## Capturas de Tela:
 
 <img src="./img/Captura01.PNG" alt="captura 01"/>
